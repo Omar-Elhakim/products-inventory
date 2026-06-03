@@ -1,0 +1,31 @@
+{
+  "name": "products-inventory",
+  "version": "1.0.0",
+  "description": "Welcome to the coding test for the **Backend Developer role**. This test evaluates your skills in Node.js, Express.js, Express Validator, JWT Authentication, Authorization Middleware, database management, and API design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Elhakim/products-inventory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Elhakim/products-inventory/issues"
+  },
+  "homepage": "https://github.com/Omar-Elhakim/products-inventory#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
