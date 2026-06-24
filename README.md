@@ -109,4 +109,4 @@ caching, and pagination strategies for high-traffic scenarios.
 
 ## License
 
-Released under the [ISC License](LICENSE).
+Released under the [MIT License](LICENSE).
