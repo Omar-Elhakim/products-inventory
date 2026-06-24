@@ -106,3 +106,7 @@ server.js     App entry point
 
 See [Query-Optimizations.md](Query-Optimizations.md) for notes on indexing,
 caching, and pagination strategies for high-traffic scenarios.
+
+## License
+
+Released under the [ISC License](LICENSE).
